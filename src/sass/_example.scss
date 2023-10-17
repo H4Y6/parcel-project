@@ -4,7 +4,7 @@
   line-height: 1.5;
   background-color: #fff;
   color: #2f2f37;
-  max-width: 1200px;
+  max-width: 1240px;
   padding: 16px;
 }
 
@@ -23,6 +23,6 @@
   // ❗️❗️❗️ The path to images from a SASS file
   // is always the same as from the css folder.
   background-image: url('../images/beach.jpg');
-  background-size: 1200px;
+  background-size: cover;
   background-position: center;
 }
